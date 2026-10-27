@@ -8,9 +8,8 @@ O planejamento é composto por oito disciplinas: Matemática, Português, Geogra
 O fluxo de execução do script consiste em:
 
 1- Acessar a plataforma e realizar o login;
-2- Identificar as aulas pendentes de replicação;
-3- Replicar o conteúdo da aula selecionada;
-4- Salvar as alterações realizadas;
+2- Replicar o conteúdo da aula selecionada;
+3- Salvar as alterações realizadas;
 5- Avançar automaticamente para a próxima aula pendente;
 6- Ao concluir todas as aulas de uma disciplina, prosseguir para a disciplina seguinte;
 7- Repetir o processo até a finalização completa de todo o planejamento.
